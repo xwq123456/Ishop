@@ -1,4 +1,5 @@
 <?php
+<<<<<<< HEAD
 echo "fbhaer非巴尔";
 ?>
 <!DOCTYPE html>
@@ -11,3 +12,7 @@ echo "fbhaer非巴尔";
 	
 </body>
 </html>
+=======
+echo "afhqb大概";
+?>
+>>>>>>> remotes/origin/master
